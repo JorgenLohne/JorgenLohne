@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JorgenLohne
-I am a software engineer at Tietoevry Banking.
+👋 Hi, I’m @JorgenLohne
 
 <!---
 JorgenLohne/JorgenLohne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

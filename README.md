@@ -4,7 +4,7 @@ I'm a software enginner @ Tietoevry Banking, working on financial crime preventi
 
 Currently working on services realted to identificaion, in the java spirng ecosystem.
 
-Technology I'm working with:
+Technology I'm working with include:
 
 - Java
 - Spring Boot

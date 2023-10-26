@@ -1,18 +1,10 @@
-👋 Hi, I’m @JorgenLohne
+Software enginner @ [Tietoevry Banking](https://www.tietoevry.com/en/banking/), financial crime prevention.
 
-I'm a software enginner @ Tietoevry Banking, working on financial crime prevention.
-
-Currently working on services realted to identificaion, in the java spirng ecosystem.
-
-Technology I'm working with include:
-
-- Java
-- Spring Boot
-- Immutables
-- Maven
-- Junit
+Currently working on services realted to identificaion, using the java spirng ecosystem.
+Also working with
 - Docker
 - Openshift
+- Github Actions
 
 <!---
 JorgenLohne/JorgenLohne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

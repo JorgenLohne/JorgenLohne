@@ -3,7 +3,7 @@ Software enginner @ [Tietoevry Banking](https://www.tietoevry.com/en/banking/), 
 Currently working on services realted to identificaion, using the java spirng ecosystem.
 Also working with
 - Docker
-- Openshift
+- Openshift / K8s
 - Github Actions
 
 <!---
